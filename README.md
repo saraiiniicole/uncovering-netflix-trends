@@ -1,0 +1,2 @@
+This project performs a content analysis of a streaming platform with the objective of supporting content library growth. By evaluating competitor catalogs, the analysis identifies prevailing trends in movies and television programming to inform strategic content acquisition decisions. Data visualizations, including plots and graphs, are used to highlight and compare trends within Netflix’s movie and TV show offerings.
+
